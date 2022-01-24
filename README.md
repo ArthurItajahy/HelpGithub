@@ -37,7 +37,7 @@ git pull origin main
 # Exemplo: README.md
 ````
 
-# Passo 5 | Adicionar um novos arquivos:
+# Passo 5 | Adicionar novos arquivos:
 
 ````bash
 git add . 
