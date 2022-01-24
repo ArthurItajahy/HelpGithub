@@ -75,6 +75,8 @@ git push -u origin máster
 ````
 ### Finalizou o processo.
 
+## Outros comandos necessários.
+
 
 
 
