@@ -46,6 +46,9 @@ git add .
 git add README.md
 #Para adicionar um arquivo sozinho.
 
+git add read
+#Adicionando pasta.
+
 git add read/README.md
 #Vai adicionar um arquivo dentro de uma pasta. Mas ira adicionar a pasta junto. 
 
