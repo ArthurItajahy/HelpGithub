@@ -39,6 +39,19 @@ git pull origin main
 
 # Passo 5 | Adicionar um novos arquivos:
 
+````bash
+git add . 
+#Para adicionar todos os arquivos das pastas.
+
+git add README.md
+#Para adicionar um arquivo sozinho.
+
+git add read/README.md
+#Vai adicionar um arquivo dentro de uma pasta. Mas ira adicionar a pasta junto. 
+
+# Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
+# Exemplo: README.md
+````
 
 
 
