@@ -76,9 +76,9 @@ git push -u origin main
 git push -u origin master
  
 ````
-### Finalizou o processo.
+### ----------------Finalizou o processo------------------------
 
-## Erros possíveis.
+# Erros possíveis:
 
 ## Erro | Caso você perca o arquivo da sua maquina.
 ### Esse comando vai criar um clone do arquivo do repositório no GitHub na sua maquina.
