@@ -30,7 +30,7 @@ git remote add origin https://github.com/EmitPool/HelpGithub
 ````
 # Atenção:
 ## Passo 4 | Puxar os arquivos dos repositórios do GitHub:
-### Esse código vai puxar o repositório. 
+### Os aquivos vão ir para sua maquina local.
 ````bash
 git pull origin main
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
