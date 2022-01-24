@@ -37,7 +37,7 @@ git pull origin main
 # Exemplo: README.md
 ````
 
-# Passo 5 | Adicionar novos arquivos:
+## Passo 5 | Adicionar novos arquivos:
 
 ````bash
 git add . 
@@ -52,6 +52,30 @@ git add read/README.md
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
 # Exemplo: README.md
 ````
+## Passo 6 | Confirmar para subir o arquivo:
+### Criando um Commit para identificar o seu historico.
+
+````bash
+
+git commit -m "Add README.md"
+# Não importa o nome que você coloca entre "Escreva Qualquer Coisa. "
+# Mas como boas praticas você tem que escrever todos os commits de uma forma bem clara.
+
+````
+## Passo 7 | Enviar os arquivos para o repositório do GitHub:
+
+````bash
+
+git push -u origin main
+# Você vai enviar escreva exatamente assim caso você tenha seguido os passo corretamente.
+# Se sua branch estiver diferente possivelmente "master"  digite assim.
+
+git push -u origin máster
+ 
+````
+### Finalizou o processo.
+
+
 
 
 
