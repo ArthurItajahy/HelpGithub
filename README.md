@@ -70,12 +70,23 @@ git push -u origin main
 # Você vai enviar escreva exatamente assim caso você tenha seguido os passo corretamente.
 # Se sua branch estiver diferente possivelmente "master"  digite assim.
 
-git push -u origin máster
+git push -u origin master
  
 ````
 ### Finalizou o processo.
 
-## Outros comandos necessários.
+## Erros possíveis.
+
+## Erro | Caso você perca o arquivo da sua maquina.
+### Esse comando vai criar um clone do arquivo do repositório no GitHub na sua maquina.
+
+````bash
+
+git clone https://github.com/EmitPool/HelpGithub
+# Você coloca o link do repositório que você quer clonar.
+
+````
+
 
 
 
