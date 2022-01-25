@@ -1,4 +1,7 @@
 # HelpGithub
+
+![GitHub](https://img.shields.io/github/license/oTalDoHud/ProjetoDashBoardVendas)
+
 Esse repositório é para guarda todas as duvidas que eu tenho sobre Github. 
 
 
@@ -70,7 +73,7 @@ git commit -m "Add README.md"
 ````bash
 
 git push -u origin main
-# Você vai enviar escreva exatamente assim caso você tenha seguido os passo corretamente.
+# Caso você tenha seguido os passos corretamente. Você 
 # Se sua branch estiver diferente possivelmente "master"  digite assim.
 
 git push -u origin master
@@ -89,6 +92,12 @@ git clone https://github.com/EmitPool/HelpGithub
 # Você coloca o link do repositório que você quer clonar.
 
 ````
+
+## Erro | Fatal: Refusing To Merge Unrelated Histories
+### Provavelmente você conhece o problema dessa forma.
+### fatal: refusing to merge unrelated histories
+
+### Esse  problema acontece porque: 
 
 
 
