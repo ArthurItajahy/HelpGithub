@@ -94,10 +94,9 @@ git clone https://github.com/EmitPool/HelpGithub
 ````
 
 ## Erro | Fatal: Refusing To Merge Unrelated Histories
-### Provavelmente você conhece o problema dessa forma.
-### fatal: refusing to merge unrelated histories
-
-### Esse  problema acontece porque: 
+ Provavelmente você conhece o problema dessa forma.
+ fatal: refusing to merge unrelated histories
+ Esse  problema acontece porque: 
 
 
 
