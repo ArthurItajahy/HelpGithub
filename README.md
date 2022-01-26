@@ -44,16 +44,17 @@ git pull origin main
 
 ````bash
 git add . 
-#Para adicionar todos os arquivos das pastas.
+# Para adicionar todos os arquivos das pastas.
 
 git add README.md
-#Para adicionar um arquivo sozinho.
+# Para adicionar um arquivo sozinho.
 
 git add read
-#Adicionando pasta.
+# Adicionando pasta.
+# 'read' é o nome da pasta.
 
 git add read/README.md
-#Vai adicionar um arquivo dentro de uma pasta. Mas ira adicionar a pasta junto. 
+# Vai adicionar um arquivo dentro de uma pasta. Mas ira adicionar a pasta junto. 
 
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
 # Exemplo: README.md
@@ -94,9 +95,23 @@ git clone https://github.com/EmitPool/HelpGithub
 ````
 
 ## Erro | Fatal: Refusing To Merge Unrelated Histories
- Provavelmente você conhece o problema dessa forma.
- fatal: refusing to merge unrelated histories
- Esse  problema acontece porque: 
+ Provavelmente você conhece o problema dessa forma:
+#### " fatal: refusing to merge unrelated histories"
+Desde o Release 2.9.0, 0 Git parou o merge automático de projetos que possuem Git diferentes.
+
+Esse erro geralmente acontece quando você tenta fazer o 'git pull' de um repositório remoto, mas o seu repositório local possuí um histórico de commits, branches, etc, diferente do que está no repositório remoto.
+
+Para resolver o problema escreva isso:
+
+````bash
+# Esse comando juntar os históricos da branch local e da branch servidor.
+git pull origin master --allow-unrelated-histories
+#  Lembrando coloque a branch no lugar de 'master' a sua branch 
+# principal hoje nos usamos branch 'main' então troque 'master' por
+# 'main'
+````
+
+
 
 
 
