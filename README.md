@@ -106,7 +106,8 @@ Para resolver o problema escreva isso:
 ````bash
 # Esse comando juntar os históricos da branch local e da branch servidor.
 git pull origin master --allow-unrelated-histories
-# Lembrando sua branch se sua branch principal tiver um nome diferente de 'master' troque o nome para a branch que você colocou.
+# Lembrando sua branch se sua branch principal tiver um nome 
+diferente de 'master' troque o nome para a branch que você colocou.
 ````
 
 
