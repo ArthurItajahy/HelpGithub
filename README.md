@@ -1,10 +1,12 @@
 # HelpGithub
+![GitHub](https://img.shields.io/github/license/EmmettBrown/HelpGithub)
+
 <!--ts-->
    * [Nivel - iniciante](#inicio)
-   <!--te-->
-![GitHub](https://img.shields.io/github/license/oTalDoHud/ProjetoDashBoardVendas)
-
-Esse repositório é para guarda todas as duvidas que eu tenho sobre Github. 
+  <!--te-->
+# Inicio
+### Tela inicial do GitHub: 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1inicio.png) 
 
 ## Passo 0 | Inicie o seu git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
@@ -121,7 +123,7 @@ git pull origin master --allow-unrelated-histories
 # Lembrando sua branch se sua branch principal tiver um nome 
 # diferente de 'master' troque o nome para a branch que você colocou.
 ````
-# Inicio
+
 
 
 
