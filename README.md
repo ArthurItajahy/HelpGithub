@@ -1,11 +1,12 @@
 # HelpGithub
-
+<!--ts-->
+   * [Nivel - iniciante](#inicio)
+   <!--te-->
 ![GitHub](https://img.shields.io/github/license/oTalDoHud/ProjetoDashBoardVendas)
 
 Esse repositório é para guarda todas as duvidas que eu tenho sobre Github. 
 
-
-## Passo 1 | Inicie o seu git: 
+## Passo 0 | Inicie o seu git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
 ```bash
 
@@ -13,6 +14,17 @@ git init
 # Sua branch ira iniciar como master.
 
 ```
+## Passo 1 | Configure sua conta
+
+````bash
+
+git config –global user.email "seuemail@gmail.com"
+git config –global user.name "SeuNome"
+
+# Para configurar sua conta com o git.
+
+````
+
 ## Passo 2 | Mude a branch:
 
 ````bash
@@ -109,7 +121,7 @@ git pull origin master --allow-unrelated-histories
 # Lembrando sua branch se sua branch principal tiver um nome 
 # diferente de 'master' troque o nome para a branch que você colocou.
 ````
-
+# Inicio
 
 
 
