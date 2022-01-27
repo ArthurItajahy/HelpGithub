@@ -6,7 +6,7 @@
   <!--te-->
 # Inicio
 ### Tela inicial do GitHub: 
-![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1inicio.png) 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1Inicio.png) 
 
 ## Passo 0 | Inicie o seu git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
