@@ -138,22 +138,18 @@ Pasta "CriandoPasta" e dentro da pasta vou colocar um exercício Java "CriandoEx
 #### Colocando Exercício dentro da Pasta:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoExercicioGitInicio.png)
 
-### Passo 1 | Iniciando o git bash:
-Sempre quando você reabrir o git bash use o comando "git init."
-````bash
-git init
-````
+### Passo 1 | Iniciando o git bash here:
 ### Abrindo o git bash depois de colocar a pasta e o exercício:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoBashGitInicio.png)
 
-### Usando o comando git init:
 
-![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoBashGitInicio.png)
-### Passo 2 | Iniciando o git bash:
+
+### Passo 2 | Iniciando o Git:
 Sempre quando você reabrir o git bash use o comando "git init."
 ````bash
 git init
 ````
+### Usando o comando git init:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoInitGitInicio.png)
 ### Passo 3 | Mostra o estado dos arquivos:
 
