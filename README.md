@@ -78,7 +78,7 @@ git init
 
 ### Passo 1 | Configure sua conta
 #### Considerações: Você precisara fazer apenas a primeira vez que for usar o gtibash no seu pc. Caso já tenha feito isso pule para o passo 2.
-
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
 git config –-global user.email "seuemail@gmail.com"
@@ -87,7 +87,7 @@ git config –-global user.email "seuemail@gmail.com"
 ````
 #### Utilize o email de cadastro da sua conta GitHub.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigEmailGitInicio.png)
-
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
 git config –-global user.name "SeuNome".
@@ -95,7 +95,7 @@ git config –-global user.name "SeuNome".
 ````
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigNameGitInicio.png)
 ### Passo 2 | Mude a branch:
-
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
 git branch -M main
@@ -105,21 +105,23 @@ git branch -M main
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5GitInicio.png)
 
 ### Passo 3 | Colocar o link do seu repositório: 
-
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
-git remote add origin https://github.com/EmitPool/HelpGithub
+git remote add origin https://github.com/EmmettBrowwn/CriandoRepostorio.git
 
 # Dessa forma você vai linkar com a variável do remote.
 ````
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo6GitInicio.png)
 ### Passo 4 | Puxar os arquivos dos repositórios do GitHub:
 ### Os aquivos vão ir para sua maquina local.
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 git pull origin main
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
 # Exemplo: README.md
 ````
-
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo7GitInicio.png)
 ### Passo 5 | Adicionar novos arquivos:
 
 ````bash
