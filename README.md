@@ -5,6 +5,8 @@
    * [Git - Iniciante](#Git-Iniciante)
        * [Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
        * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
+   * [Git - Como usar?](#Git-Como-usar?)
+       * [Como usar .gitignore?](# .gitignore?)    
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -205,7 +207,22 @@ git push -u origin master
 
 
 ### ----------------Finalizou o processo------------------------
+# Git-Como-usar?
 
+# .gitignore?
+O que é .gitignore bom para ser bem curto e rápido ele ignora os arquivos que você não quer mandar para seu repositório.
+### Passo 1 | Criando Arquivo:
+Agora você vai criar um arquivo.text como está na imagem abaixo: 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1ComoUsarGitignore.png)
+
+### Passo 2 | Renomear Arquivo:
+Renomeei o text para ".gitignore". Como na imagem abaixo. 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo2ComoUsarGitignore.png)
+
+### Passo 3 | Adicionando Arquivos:
+Nesse momento nos vamos colocar os arquivos queremos que seja ignorados.
+### Click no ".gitignore".  Ira abrir em bloco de nota ou qualquer outro Editor de texto. Dentro dele coloque extamente o nome do arquivo eu coloquei meu arquivo texto "Senhas.txt" e adicionei o ".gitignore". Agora esse arquivo será ignorado quando você for subir seus arquivos para o repositório.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3ComoUsarGitignore.png)
 # Erros-Possiveis
 
 ## Erro | Caso você perca o arquivo da sua maquina.
