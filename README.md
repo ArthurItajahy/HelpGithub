@@ -3,8 +3,8 @@
 <!--ts-->
    * [Github - iniciante](#Github-Iniciante)
    * [Git - Iniciante](#Git-Iniciante)
-            *[Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
-            *[Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
+            * [Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
+            * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
