@@ -68,6 +68,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
  Aqui começa os passos do Gitbash.
 ### Passo 0 | Inicie o seu Git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
+### Comando(Aperte "Enter" depois de escrever):
 ```bash
 
 git init
@@ -78,15 +79,19 @@ git init
 
 ### Passo 1 | Configure sua conta
 #### Considerações: Você precisara fazer apenas a primeira vez que for usar o gtibash no seu pc. Caso já tenha feito isso pule para o passo 2.
+
+### EMAIL CONFIG:
 ### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
 git config –-global user.email "seuemail@gmail.com"
-# Para configurar conecta sua maquina com sua conta GitHub.
+# Para  conecta sua maquina com sua conta GitHub.
 
 ````
 #### Utilize o email de cadastro da sua conta GitHub.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigEmailGitInicio.png)
+### NOME CONFIG:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoUseNameGitInicio.png)
 ### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
