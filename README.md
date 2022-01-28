@@ -131,11 +131,11 @@ git pull origin main
 ````
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo7GitInicio.png)
 # Git-Iniciante-Parte-2
-Nos criar um arquivo dentro da pasta ou colocar arquivos dentro da pasta. No meu exemplo eu vou colocar:
+Nos vamos criar um arquivo dentro da pasta ou colocar arquivos dentro da pasta. No meu exemplo eu vou colocar:
 Pasta "CriandoPasta" e dentro da pasta vou colocar um exercício Java "CriandoExercicio.java".
 #### Colocando Pasta:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoPastaGitInicio.png)
-####Colocando Exercício dentro da Pasta:
+#### Colocando Exercício dentro da Pasta:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoExercicioGitInicio.png)
 
 ### Passo 1 | Iniciando o git bash:
