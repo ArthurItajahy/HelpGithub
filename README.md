@@ -6,7 +6,7 @@
        * [Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
        * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
    * [Git - Como usar?](#Git-Como-usar)
-       * [Como usar .gitignore?](#.gitignore)    
+       * [Como usar .gitignore?](#Gitignore)    
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
