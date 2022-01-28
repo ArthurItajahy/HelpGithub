@@ -1,13 +1,13 @@
 # HelpGithub
-# Conteúdos
-
-## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
+# Cabeçalho
 <!--ts-->
    * [Github - iniciante](#Github-Iniciante)
    * [Git - Iniciante](#Git-Iniciante)
        * [Git - Passos](#Git-Passos)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
+ ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
+
 # GitHub-Iniciante
 ## Criando Repositório no GitHub.
 Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao passo 1.
