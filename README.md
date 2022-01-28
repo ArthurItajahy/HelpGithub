@@ -3,13 +3,13 @@
 
 <!--ts-->
    * [Nivel - iniciante](#Nivel-Iniciante)
-       * [Criando o repositório](##Criando-o-repositório:)
-           * [Passo 1 | Tela Inicial do Github](###Passo-1-|-Tela-inicial-do-GitHub:)
+       * [Criando o repositório](##Criando-Repositorio)
+           * [Passo 1 | Tela Inicial do Github](###Passo-1)
   <!--te-->
-# Nivel - Iniciante
-## Criando o repositório:
+# Nivel-Iniciante
+## Criando-Repositório
 Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao passo 1.
-### Passo 1 | Tela inicial do GitHub: 
+### Passo-1 
 Provavelmente o seu não estará nessa te nessa tela quando criar a conta, você apenas precisa clicar no seu perfil no canto superior esquerdo.
 Depois de clicar ira aparecer um menu e uma das opções será "Your Profile" caso estiver em inglês. Se você estiver usando o tradutor automático desative e repita o procedimento. Depois de clicar em "Your Profile" ira aparecer essa tela agora você pode continuar.
 
