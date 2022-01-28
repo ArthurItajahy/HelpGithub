@@ -3,8 +3,8 @@
 
 <!--ts-->
    * [Nivel - iniciante](#Nivel - Iniciante)
-   * [Criando o repositório](#Criando o repositório:)
-   * [Passo 1 | Tela Inicial do Github](#Passo 1 | Tela inicial do GitHub:)
+       * [Criando o repositório](##Criando o repositório:)
+           * [Passo 1 | Tela Inicial do Github](###Passo 1 | Tela inicial do GitHub:)
   <!--te-->
 # Nivel - Iniciante
 ## Criando o repositório:
