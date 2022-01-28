@@ -1,9 +1,11 @@
 # HelpGithub
-![GitHub](https://img.shields.io/github/license/EmmettBrown/HelpGithub)
+# Conteúdos
 
+## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
 <!--ts-->
    * [Github - iniciante](#Github-Iniciante)
-   * [Git - iniciante](#Git-Iniciante)
+   * [Git - Iniciante](#Git-Iniciante)
+       * [Git - Passos](#Git-Passos)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
 # GitHub-Iniciante
@@ -43,9 +45,28 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 
 
 
-# Git - Iniciante
+# Git - Iniciante 
+## ATENÇÃO: FAÇA EXATAMENTE O QUE ESTÁ ESCRITO NOS PASSOS A SEGUIR.
+## AVISO: OS PASSOS A SEGUIR SÓ VÃO FUNCIONAR CASO VOCÊ TENHA BAIXADO O GITBASH EM SUA MAQUINA.
+### Origem 0 | Criando Pasta:
 
-### Passo 0 | Inicie o seu git: 
+#### Primeiro crie uma pasta ou abra uma pasta que você deseja colocar os arquivos que você quer mandar para o repositório do GitHub.
+
+ ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1GitInicio.png)
+  
+### Origem 1 | Abrir o Gitbash:
+
+### Click com o Botão direito do mouse no espaço VAZIO dentro da pasta que estão os arquivos que você deseja subir para o seu repositório. Com isso ira aparecer esse janela.
+
+ ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo2GitInicio.png)
+ 
+ ### Depois Click no  "GITBASH HERE". Aparecera essa a janela do Gitbash.
+ 
+ ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3GitInicio.png)
+ 
+ ## Git-Passos
+ Aqui começa os passos do Gitbash.
+### Passo 0 | Inicie o seu Git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
 ```bash
 
@@ -82,7 +103,6 @@ git remote add origin https://github.com/EmitPool/HelpGithub
 
 # Dessa forma você vai linkar com a variável do remote.
 ````
-# Atenção:
 ### Passo 4 | Puxar os arquivos dos repositórios do GitHub:
 ### Os aquivos vão ir para sua maquina local.
 ````bash
