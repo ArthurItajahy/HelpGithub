@@ -9,29 +9,29 @@
 # GitHub-Iniciante
 ## Criando Repositório no GitHub.
 Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao passo 1.
-### Passo 1  | Tela Inicial: 
+## Passo 1  | Tela Inicial: 
  Provavelmente o seu não estará nessa tela quando criar a conta, você apenas precisa clicar no seu perfil no canto superior direito.Depois de clicar ira aparecer um menu e uma das opções será "Your Profile" caso estiver em inglês. Se você estiver usando o tradutor automático desative e repita o procedimento. Depois de clicar em "Your Profile" ira aparecer essa tela agora você pode continuar.
 
 ### Click em "Repositorio" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1Inicio.png) 
 
-### Passo 2  | Novo Repositorio: 
+## Passo 2  | Novo Repositorio: 
 
 ### Click em "Novo(New)" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo2Inicio.png) 
 
-### Passo 3  | Nomeando Repositorio: 
+## Passo 3  | Nomeando Repositorio: 
 
  Escreva o nome do seu repositório e marque como "public(publico)" caso você queira que outra pessoas vejam seu repositório. Caso queira que apareça apenas para você marque a opção "private(privado)". 
  ### Click em "Criar Repositório" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3Inicio.png) 
 
-### Passo 4 | Repositório Criado com Sucesso : 
+## Passo 4 | Repositório Criado com Sucesso : 
 
 #### Agora você está olhando para seu repositório criado com sucesso.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4Inicio.png) 
 
-### Passo 5 | Pegando o Link do Repositório: 
+## Passo 5 | Pegando o Link do Repositório: 
  Depois de ter criado o seu repositório com sucesso, você ira precisar pegar o link do seu repositório para conseguir linkar com seu computador.
 ## Click em "Code" e ira aparecer um menu e um Link, pode copiar o link. Pois ira usar em outros passos. Agora vá para a sessão "Git - iniciante"
  Caso você perca o link volte para o seu GitHub. Use o Passo 1 para encontrar o seu repositório e click no seu repositório e você terá o Passo 4 e então repita o passo 5. 
