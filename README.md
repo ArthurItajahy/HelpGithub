@@ -32,7 +32,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 ### Passo 5 | Pegando o Link do Repositório: 
 #### Depois de ter criado o seu repositório com sucesso, você ira precisar pegar o link do seu repositório para conseguir linkar com seu computador.
 ### Click em "Code" e ira aparecer um menu e um Link, pode copiar o link. Pois ira usar em outros passos.
- #### Caso você perca o link volte para o seu GitHub e encontre o seu repositório criado usando o Passo 1. E click no seu repositório e você terá o Passo 4 e então repita o passo 5. 
+ #### Caso você perca o link volte para o seu GitHub. Use o Passo 1 para encontrar o seu repositório e click no seu repositório e você terá o Passo 4 e então repita o passo 5. 
  
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5Inicio.png) 
 
