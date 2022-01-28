@@ -146,6 +146,7 @@ Pasta "CriandoPasta" e dentro da pasta vou colocar um exercício Java "CriandoEx
 
 ### Passo 2 | Iniciando o Git:
 Sempre quando você reabrir o git bash use o comando "git init."
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 git init
 ````
