@@ -199,7 +199,7 @@ git push -u origin master
 ### Comparando Repositorio  
 #### Antes:
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4Inicio.png)
-#### Depois:
+#### Depois(PASTA ADICIONADA):
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoUpdatedGitInicio.png)
 
 
