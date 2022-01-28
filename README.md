@@ -209,7 +209,7 @@ git push -u origin master
 ### ----------------Finalizou o processo------------------------
 # Git-Como-usar
 
-# .gitignore
+# Gitignore
 O que é .gitignore bom para ser bem curto e rápido ele ignora os arquivos que você não quer mandar para seu repositório.
 ### Passo 1 | Criando Arquivo:
 Agora você vai criar um arquivo.text como está na imagem abaixo: 
