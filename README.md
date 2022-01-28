@@ -45,7 +45,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 
 
 
-# Git - Iniciante 
+# Git-Iniciante 
 ## ATENÇÃO: FAÇA EXATAMENTE O QUE ESTÁ ESCRITO NOS PASSOS A SEGUIR.
 ## AVISO: OS PASSOS A SEGUIR SÓ VÃO FUNCIONAR CASO VOCÊ TENHA BAIXADO O GITBASH EM SUA MAQUINA.
 ### Origem 0 | Criando Pasta:
