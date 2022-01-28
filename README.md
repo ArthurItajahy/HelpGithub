@@ -4,36 +4,37 @@
 <!--ts-->
    * [Github - iniciante](#Github-Iniciante)
    * [Git - iniciante](#Git-Iniciante)
-   
+   * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
-# GitHub - Iniciante
+# GitHub-Iniciante
 ## Criando Repositório no GitHub.
 Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao passo 1.
 ### Passo 1  | Tela Inicial: 
-##### Provavelmente o seu não estará nessa tela quando criar a conta, você apenas precisa clicar no seu perfil no canto superior direito.Depois de clicar ira aparecer um menu e uma das opções será "Your Profile" caso estiver em inglês. Se você estiver usando o tradutor automático desative e repita o procedimento. Depois de clicar em "Your Profile" ira aparecer essa tela agora você pode continuar.
-============================================================================================================
+ Provavelmente o seu não estará nessa tela quando criar a conta, você apenas precisa clicar no seu perfil no canto superior direito.Depois de clicar ira aparecer um menu e uma das opções será "Your Profile" caso estiver em inglês. Se você estiver usando o tradutor automático desative e repita o procedimento. Depois de clicar em "Your Profile" ira aparecer essa tela agora você pode continuar.
+
 #### Click em "Repositorio" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1Inicio.png) 
-============================================================================================================
+
 ### Passo 2  | Novo Repositorio: 
 
 #### Click em "Novo(New)" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo2Inicio.png) 
-============================================================================================================
+
 ### Passo 3  | Nomeando Repositorio: 
 
-##### Escreva o nome do seu repositório e marque como "public(publico)" caso você queira que outra pessoas vejam seu repositório. Caso queira que apareça apenas para você marque a opção "private(privado)". Depois click em "Criar Repositório" que está dentro do circulo vermelho.
+ Escreva o nome do seu repositório e marque como "public(publico)" caso você queira que outra pessoas vejam seu repositório. Caso queira que apareça apenas para você marque a opção "private(privado)". 
+ #### Click em "Criar Repositório" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3Inicio.png) 
-============================================================================================================
+
 ### Passo 4 | Repositório Criado com Sucesso : 
 
 #### Agora você está olhando para seu repositório criado com sucesso.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4Inicio.png) 
-============================================================================================================
+
 ### Passo 5 | Pegando o Link do Repositório: 
-##### Depois de ter criado o seu repositório com sucesso, você ira precisar pegar o link do seu repositório para conseguir linkar com seu computador.
+ Depois de ter criado o seu repositório com sucesso, você ira precisar pegar o link do seu repositório para conseguir linkar com seu computador.
 ### Click em "Code" e ira aparecer um menu e um Link, pode copiar o link. Pois ira usar em outros passos. Agora vá para a sessão "Git - iniciante"
- ##### Caso você perca o link volte para o seu GitHub. Use o Passo 1 para encontrar o seu repositório e click no seu repositório e você terá o Passo 4 e então repita o passo 5. 
+ Caso você perca o link volte para o seu GitHub. Use o Passo 1 para encontrar o seu repositório e click no seu repositório e você terá o Passo 4 e então repita o passo 5. 
  
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5Inicio.png) 
 
@@ -44,7 +45,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 
 # Git - Iniciante
 
-## Passo 0 | Inicie o seu git: 
+### Passo 0 | Inicie o seu git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
 ```bash
 
@@ -52,7 +53,7 @@ git init
 # Sua branch ira iniciar como master.
 
 ```
-## Passo 1 | Configure sua conta
+### Passo 1 | Configure sua conta
 
 ````bash
 
@@ -63,7 +64,7 @@ git config –global user.name "SeuNome"
 
 ````
 
-## Passo 2 | Mude a branch:
+### Passo 2 | Mude a branch:
 
 ````bash
 
@@ -73,7 +74,7 @@ git branch -M main
 ````
 
 
-## Passo 3 | Colocar o link do seu repositório: 
+### Passo 3 | Colocar o link do seu repositório: 
 
 ````bash
 
@@ -82,7 +83,7 @@ git remote add origin https://github.com/EmitPool/HelpGithub
 # Dessa forma você vai linkar com a variável do remote.
 ````
 # Atenção:
-## Passo 4 | Puxar os arquivos dos repositórios do GitHub:
+### Passo 4 | Puxar os arquivos dos repositórios do GitHub:
 ### Os aquivos vão ir para sua maquina local.
 ````bash
 git pull origin main
@@ -90,7 +91,7 @@ git pull origin main
 # Exemplo: README.md
 ````
 
-## Passo 5 | Adicionar novos arquivos:
+### Passo 5 | Adicionar novos arquivos:
 
 ````bash
 git add . 
@@ -109,7 +110,7 @@ git add read/README.md
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
 # Exemplo: README.md
 ````
-## Passo 6 | Confirmar para subir o arquivo:
+### Passo 6 | Confirmar para subir o arquivo:
 ### Criando um Commit para identificar o seu historico.
 
 ````bash
@@ -119,7 +120,7 @@ git commit -m "Add README.md"
 # Mas como boas praticas você tem que escrever todos os commits de uma forma bem clara.
 
 ````
-## Passo 7 | Enviar os arquivos para o repositório do GitHub:
+### Passo 7 | Enviar os arquivos para o repositório do GitHub:
 
 ````bash
 
@@ -132,7 +133,7 @@ git push -u origin master
 ````
 ### ----------------Finalizou o processo------------------------
 
-# Erros possíveis:
+# Erros-Possiveis
 
 ## Erro | Caso você perca o arquivo da sua maquina.
 ### Esse comando vai criar um clone do arquivo do repositório no GitHub na sua maquina.
