@@ -5,8 +5,8 @@
    * [Git - Iniciante](#Git-Iniciante)
        * [Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
        * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
-   * [Git - Como usar?](#Git-Como-usar?)
-       * [Como usar .gitignore?](#.gitignore?)    
+   * [Git - Como usar?](#Git-Como-usar)
+       * [Como usar .gitignore?](#.gitignore)    
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -207,9 +207,9 @@ git push -u origin master
 
 
 ### ----------------Finalizou o processo------------------------
-# Git-Como-usar?
+# Git-Como-usar
 
-# .gitignore?
+# .gitignore
 O que é .gitignore bom para ser bem curto e rápido ele ignora os arquivos que você não quer mandar para seu repositório.
 ### Passo 1 | Criando Arquivo:
 Agora você vai criar um arquivo.text como está na imagem abaixo: 
