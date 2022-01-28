@@ -2,10 +2,18 @@
 ![GitHub](https://img.shields.io/github/license/EmmettBrown/HelpGithub)
 
 <!--ts-->
-   * [Nivel - iniciante](#inicio)
+   * [Nivel - iniciante](#Nivel - Iniciante)
+       * [Criando o repositório](#Criando o repositório:)
+           * [Passo 1 | Tela Inicial do Github](#Passo 1 | Tela inicial do GitHub:)
   <!--te-->
-# Inicio
-### Tela inicial do GitHub: 
+# Nivel - Iniciante
+## Criando o repositório:
+Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao passo 1.
+### Passo 1 | Tela inicial do GitHub: 
+Provavelmente o seu não estará nessa te nessa tela quando criar a conta, você apenas precisa clicar no seu perfil no canto superior esquerdo.
+Depois de clicar ira aparecer um menu e uma das opções será "Your Profile" caso estiver em inglês. Se você estiver usando o tradutor automático desative e repita o procedimento. Depois de clicar em "Your Profile" ira aparecer essa tela agora você pode continuar.
+
+##### Agora click em "Repositorio" que está dentro do circulo vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1Inicio.png) 
 
 ## Passo 0 | Inicie o seu git: 
@@ -123,9 +131,6 @@ git pull origin master --allow-unrelated-histories
 # Lembrando sua branch se sua branch principal tiver um nome 
 # diferente de 'master' troque o nome para a branch que você colocou.
 ````
-
-
-
 
 
 
