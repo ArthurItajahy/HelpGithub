@@ -131,28 +131,53 @@ git pull origin main
 ````
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo7GitInicio.png)
 # Git-Iniciante-Parte-2
-### Passo 1 | Adicionar novos arquivos:
+Nos criar um arquivo dentro da pasta ou colocar arquivos dentro da pasta. No meu exemplo eu vou colocar:
+Pasta "CriandoPasta" e dentro da pasta vou colocar um exercício Java "CriandoExercicio.java".
+#### Colocando Pasta:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoPastaGitInicio.png)
+####Colocando Exercício dentro da Pasta:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoExercicioGitInicio.png)
 
+### Passo 1 | Iniciando o git bash:
+Sempre quando você reabrir o git bash use o comando "git init."
+````bash
+git init
+````
+### Abrindo o git bash depois de colocar a pasta e o exercício:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoBashGitInicio.png)
+
+### Usando o comando git init:
+
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoBashGitInicio.png)
+### Passo 2 | Iniciando o git bash:
+Sempre quando você reabrir o git bash use o comando "git init."
+````bash
+git init
+````
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoInitGitInicio.png)
+### Passo 3 | Mostra o estado dos arquivos:
+
+O comando "git status" ira mostrar o estado dos arquivos, existem três básicos: Adicionados, Deletados e Modificados.
+### Comando(Aperte "Enter" depois de escrever):
+````bash
+git status
+````
+#### No meu caso esta arquivo adicionado.  O que está em vermelho mostra que ainda não foi adicionado para subir o git.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoStatusGitInicio.png)
+
+
+### Passo 4 | Adicionar novos arquivos:
+De começo vamos adicionar todos os arquivos da pasta usando apenas um comando.
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 git add . 
 # Para adicionar todos os arquivos das pastas.
-
-git add README.md
-# Para adicionar um arquivo sozinho.
-
-git add read
-# Adicionando pasta.
-# 'read' é o nome da pasta.
-
-git add read/README.md
-# Vai adicionar um arquivo dentro de uma pasta. Mas ira adicionar a pasta junto. 
-
-# Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
-# Exemplo: README.md
 ````
-### Passo 2 | Confirmar para subir o arquivo:
+Após o "Enter" ira parecer algo parecido com isso.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoAddGitInicio.png)
+### Passo 5 | Confirmar para subir o arquivo:
 ### Criando um Commit para identificar o seu historico.
-
+### Comando(Aperte "Enter" depois de escrever):
 ````bash
 
 git commit -m "Add README.md"
@@ -160,7 +185,9 @@ git commit -m "Add README.md"
 # Mas como boas praticas você tem que escrever todos os commits de uma forma bem clara.
 
 ````
-### Passo 3 | Enviar os arquivos para o repositório do GitHub:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoCommitGitInicio.png)
+### Passo 6 | Enviar os arquivos para o repositório do GitHub:
+Vamos enviar os arquivos para o repositório.
 
 ````bash
 
@@ -171,6 +198,15 @@ git push -u origin main
 git push -u origin master
  
 ````
+## Sua tela parecer como está. Você conseguiu colocar todo os Arquivos no seu repositorio.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoPushGitInicio.png)
+### Comparando Repositorio  
+#### Antes:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4GitInicio.png)
+#### Depois:
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoUpdatedGitInicio.png)
+
+
 ### ----------------Finalizou o processo------------------------
 
 # Erros-Possiveis
