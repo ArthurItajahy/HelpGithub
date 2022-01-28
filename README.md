@@ -3,7 +3,8 @@
 <!--ts-->
    * [Github - iniciante](#Github-Iniciante)
    * [Git - Iniciante](#Git-Iniciante)
-       * [Git - Passos](#Git-Passos)
+       *[Git - Parte 1- Conectando local com Servidor](#Git-Iniciante-Parte-1)
+       *[Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -46,6 +47,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 
 
 # Git-Iniciante 
+# Git-Iniciante-Parte-1
 ## ATENÇÃO: FAÇA EXATAMENTE O QUE ESTÁ ESCRITO NOS PASSOS A SEGUIR.
 ## AVISO: OS PASSOS A SEGUIR SÓ VÃO FUNCIONAR CASO VOCÊ TENHA BAIXADO O GITBASH EM SUA MAQUINA.
 ### Origem 0 | Criando Pasta:
@@ -64,8 +66,8 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
  
  ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3GitInicio.png)
  
- ## Git-Passos
- Aqui começa os passos do Gitbash.
+
+## Aqui começa os passos do Gitbash.
 ### Passo 0 | Inicie o seu Git: 
 Nesse momento você vai criar uma pasta de configuração do '.git' .
 ### Comando(Aperte "Enter" depois de escrever):
@@ -91,7 +93,7 @@ git config –-global user.email "seuemail@gmail.com"
 #### Utilize o email de cadastro da sua conta GitHub.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigEmailGitInicio.png)
 ### NOME CONFIG:
-#### Use esse nome que está na sua pagina "Your Profile" , você consegue acessar usando o Passo 1. Que está dentro do quadrado vermelho.
+#### Use esse nome que está na sua pagina "Your Profile" , você consegue acessar usando o Passo 1 da Sessão "Github-Iniciante" . Use o nome que está localizado dentro do quadrado vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoUseNameGitInicio.png)
 ### Comando(Aperte "Enter" depois de escrever):
 ````bash
@@ -128,7 +130,8 @@ git pull origin main
 # Exemplo: README.md
 ````
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo7GitInicio.png)
-### Passo 5 | Adicionar novos arquivos:
+# Git-Iniciante-Parte-2
+### Passo 1 | Adicionar novos arquivos:
 
 ````bash
 git add . 
@@ -147,7 +150,7 @@ git add read/README.md
 # Você vai puxar os arquivos que vocês tem no repositório do GitHub,  para sua maquina local.
 # Exemplo: README.md
 ````
-### Passo 6 | Confirmar para subir o arquivo:
+### Passo 2 | Confirmar para subir o arquivo:
 ### Criando um Commit para identificar o seu historico.
 
 ````bash
@@ -157,7 +160,7 @@ git commit -m "Add README.md"
 # Mas como boas praticas você tem que escrever todos os commits de uma forma bem clara.
 
 ````
-### Passo 7 | Enviar os arquivos para o repositório do GitHub:
+### Passo 3 | Enviar os arquivos para o repositório do GitHub:
 
 ````bash
 
