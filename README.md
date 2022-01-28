@@ -2,9 +2,9 @@
 ![GitHub](https://img.shields.io/github/license/EmmettBrown/HelpGithub)
 
 <!--ts-->
-   * [Nivel - iniciante](#Nivel - Iniciante)
-       * [Criando o repositório](##Criando o repositório:)
-           * [Passo 1 | Tela Inicial do Github](###Passo 1 | Tela inicial do GitHub:)
+   * [Nivel - iniciante](#Nivel-Iniciante)
+       * [Criando o repositório](##Criando-o-repositório:)
+           * [Passo 1 | Tela Inicial do Github](###Passo-1-|-Tela-inicial-do-GitHub:)
   <!--te-->
 # Nivel - Iniciante
 ## Criando o repositório:
