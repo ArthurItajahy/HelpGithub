@@ -74,17 +74,26 @@ git init
 # Sua branch ira iniciar como master.
 
 ```
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4GitInicio.png)
+
 ### Passo 1 | Configure sua conta
+#### Considerações: Você precisara fazer apenas a primeira vez que for usar o gtibash no seu pc. Caso já tenha feito isso pule para o passo 2.
 
 ````bash
 
-git config –global user.email "seuemail@gmail.com"
-git config –global user.name "SeuNome"
-
-# Para configurar sua conta com o git.
+git config –-global user.email "seuemail@gmail.com"
+# Para configurar conecta sua maquina com sua conta GitHub.
 
 ````
+#### Utilize o email de cadastro da sua conta GitHub.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigEmailGitInicio.png)
 
+````bash
+
+git config –-global user.name "SeuNome".
+
+````
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigNameGitInicio.png)
 ### Passo 2 | Mude a branch:
 
 ````bash
@@ -93,7 +102,7 @@ git branch -M main
 
 # Sua branch ira mudar para o padrão Main.
 ````
-
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5GitInicio.png)
 
 ### Passo 3 | Colocar o link do seu repositório: 
 
