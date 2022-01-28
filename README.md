@@ -91,6 +91,7 @@ git config –-global user.email "seuemail@gmail.com"
 #### Utilize o email de cadastro da sua conta GitHub.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoConfigEmailGitInicio.png)
 ### NOME CONFIG:
+#### Use esse nome que está na sua pagina "Your Profile" , você consegue acessar usando o Passo 1. Que está dentro do quadrado vermelho.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoUseNameGitInicio.png)
 ### Comando(Aperte "Enter" depois de escrever):
 ````bash
