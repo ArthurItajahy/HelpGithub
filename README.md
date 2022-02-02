@@ -44,6 +44,12 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5Inicio.png) 
 
 
+ <!--ts-->
+         * [Cabeçalho](#Cabeçalho)
+ <!--te-->
+
+
+
 
 
 
@@ -207,6 +213,11 @@ git push -u origin master
 
 
 ### ----------------Finalizou o processo------------------------
+<!--ts-->
+         * [Cabeçalho](#Cabeçalho)
+ <!--te-->
+
+
 # Git-Como-usar
 
 # Gitignore
@@ -235,6 +246,11 @@ git clone https://github.com/EmitPool/HelpGithub
 
 ````
 
+<!--ts-->
+         * [Cabeçalho](#Cabeçalho)
+ <!--te-->
+
+
 ## Erro | Fatal: Refusing To Merge Unrelated Histories
  Provavelmente você conhece o problema dessa forma:
 #### " fatal: refusing to merge unrelated histories"
@@ -250,6 +266,10 @@ git pull origin master --allow-unrelated-histories
 # Lembrando sua branch se sua branch principal tiver um nome 
 # diferente de 'master' troque o nome para a branch que você colocou.
 ````
+<!--ts-->
+         * [Cabeçalho](#Cabeçalho)
+ <!--te-->
+
 
 
 
