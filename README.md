@@ -279,14 +279,18 @@ os comandos para trabalhar em equipe são:
 ````bash
 
 git clone https://github.com/EmitPool/CriarRepositorio
-# Você coloca o link do repositório que você quer clonar. Caso já tenha algo no repositório, ele ajuda a puxar o historico de commits e assim evita conflitos. 
+# Você coloca o link do repositório que você quer clonar. 
+# Caso já tenha algo no repositório, ele ajuda a puxar o historico de commits e assim evita conflitos. 
 
 ````
 
 ````bash
 
 git pull origin main
-# Caso você seu amigo faça uma mudança no repositório e você quer atualizar a sua maquina local. Mas muitas vezes você vai usar quando for subir o suas alterações para repositório. E assim ira se evitar muitos conflitos.
+# Caso você seu amigo faça uma mudança no repositório e
+#  você quer atualizar a sua maquina local.
+# Mas muitas vezes você vai  usar quando for subir o suas alterações para repositório. 
+# E assim ira se evitar muitos conflitos.
 
 ````
 Comandos Relevantes:
