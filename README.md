@@ -7,6 +7,7 @@
        * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
    * [Git - Como usar?](#Git-Como-usar)
        * [Como usar .gitignore?](#Gitignore)    
+       * [Como trabalhar em grupo?](#Grupo )
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -222,6 +223,95 @@ Renomeei o text para ".gitignore". Como na imagem abaixo.
 Nesse momento nos vamos colocar os arquivos queremos que seja ignorados.
 ### Click no ".gitignore".  Ira abrir em bloco de nota ou qualquer outro Editor de texto. Dentro dele coloque extamente o nome do arquivo eu coloquei meu arquivo texto "Senhas.txt" e adicionei o ".gitignore". Agora esse arquivo será ignorado quando você for subir seus arquivos para o repositório.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3ComoUsarGitignore.png)
+
+# Grupo
+
+O que é .gitignore bom para ser bem curto e rápido ele ignora os arquivos que você não quer mandar para seu repositório.
+### Passo 1 | Encontrando Settings:
+Entre no repositório que você quer trabalhar em crupo e click em "SETTINGS"(Configurações) : 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1CriandoGrupo.png)
+
+### Passo 2 | Encontrando Settings:
+Entre no repositório que você quer trabalhar em crupo e click em "Collaborators"(Configurações) : 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo2CriandoGrupo.png)
+
+### Passo 3 | PEDINDO SENHA:
+Caso você não salvou a senha no seu navegador ele ira pedir para colocar a senha, coloque a senha e aperte em confirmar no botão verde:  
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3CriandoGrupo.png)
+
+### Passo 4 | Tela de Convite:
+Nessa tela você tem acesso a todas a informações dos colaboradores do seu projeto, você pode convidar, controlar os níveis de acesso.
+Mas vamos focar em convidar um amigo para ajudar no projeto: 
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo4CriandoGrupo.png)
+
+
+### Passo 5 | PROCURAR AMIGO:
+Agora coloque exatamente o nome do GitHub do seu amigo.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5CriandoGrupo.png)
+
+
+### Passo 6 | ADICIONANDO AMIGO:
+Depois de ter colocado o nome do seu amigo agora é confirma para ele fazer parte do repositório.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo6CriandoGrupo.png)
+
+
+### Passo 7 | TENDO CERTEZA:
+Caso seu amigo não tenha recebido o convite no e-mail , clique onde está o circulo vermelho.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo7CriandoGrupo.png)
+
+
+### Passo 8 | RECEBENDO CONVITE:
+Seu amigo ira receber o convite no e-mail que ele usou para se cadastrar no GitHub.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo8CriandoGrupo.jpeg)
+
+### Passo 9 | DENTRO DO EMAIL:
+Dentro do e-mail estará um todo convite explicando que seu amigo foi convidado para participar do seu repositório.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo9CriandoGrupo.jpeg)
+
+### Passo 10 | FINALIZANDO:
+Depois de ter clicado no botão verde seu amigo será encaminhado para o GitHub. Caso ele não tenha salvo o git ira pedir a senha seu amigo coloca a senha e confirma ele ira para essa pagina apenas clique em "Accept Invitation"(Aceitar convite). Pronto agora é trabalhar junto.
+![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo10CriandoGrupo.jpeg)
+
+### Considerações:
+
+os comandos para trabalhar em equipe são: 
+
+````bash
+
+git clone https://github.com/EmitPool/CriarRepositorio
+# Você coloca o link do repositório que você quer clonar. Caso já tenha algo no repositório, ele ajuda a puxar o historico de commits e assim evita conflitos. 
+
+````
+
+````bash
+
+git pull origin main
+# Caso você seu amigo faça uma mudança no repositório e você quer atualizar a sua maquina local. Mas muitas vezes você vai usar quando for subir o suas alterações para repositório. E assim ira se evitar muitos conflitos.
+
+````
+Comandos Relevantes:
+````bash
+
+git commit -m "Escreva a alteração que você fez no repositório."
+# Para marcar sua alteração no historico e confirmar as coisas que você quer mandar para o repositório.
+
+git push -u  origin main
+# Para mandar os arquivos para o repositório.
+
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Erros-Possiveis
 
 ## Erro | Caso você perca o arquivo da sua maquina.
