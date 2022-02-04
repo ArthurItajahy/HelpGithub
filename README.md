@@ -8,6 +8,7 @@
    * [Git - Como usar?](#Git-Como-usar)
        * [Como usar .gitignore?](#Gitignore)    
        * [Como trabalhar em grupo?](#Grupo )
+       * [Como remover remote?](#Remover-Remote)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -226,7 +227,6 @@ Nesse momento nos vamos colocar os arquivos queremos que seja ignorados.
 
 # Grupo
 
-O que é .gitignore bom para ser bem curto e rápido ele ignora os arquivos que você não quer mandar para seu repositório.
 ### Passo 1 | Encontrando Settings:
 Entre no repositório que você quer trabalhar em crupo e click em "SETTINGS"(Configurações) : 
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo1CriandoGrupo.png)
@@ -308,6 +308,16 @@ git push -u  origin main
 
 
 
+# Remover-Remote
+
+````bash
+
+git remote -v
+# Esse comando serve para você visualizar os remotes que você tem criados.
+
+git remote rm origin
+# Caso o seu remote tenha um nome diferente de "origin" coloque no lugar de "origin". 
+````
 
 
 
