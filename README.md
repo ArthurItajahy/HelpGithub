@@ -317,6 +317,10 @@ git remote -v
 
 git remote rm origin
 # Caso o seu remote tenha um nome diferente de "origin" coloque no lugar de "origin". 
+
+git remote add origin https://github.com/EmitPool/CriarRepositorio
+# Caso você queira adicionar um novo Link.
+
 ````
 
 
