@@ -332,30 +332,43 @@ git remote add origin https://github.com/EmitPool/CriarRepositorio
 # Como-usar-git-add
 
 ````bash
-
 git add .
 # Você usara quando você precisar adicionar todas a modificações que você fez.
 # Cuidado: Não esqueça de usar o .gitignore para ter 
 # mais controle dos arquivos que deseja mandar para seu repositorio. 
+````
 
+
+````bash
 git add README.md
 # Você usara para adicionar especificamente a pasta que você fez a alteração. 
 # Que no caso é "README.md".
+````
 
+
+````bash
 git add Read
 # Caso você queira adicionar apenas a pasta que você fez a alteração. 
 # E você ira adicionar todos os arquivos que estão dentro da pasta.
 # Os únicos arquivos que serão ignorados são aqueles que foram declarados no .gitignore.
 # Que no caso é "Read".
+````
 
+
+````bash
 git add READ/README.md
 # Caso você queira apenas adicionar um arquivo que está dentro de uma paste.
 # Você quer apenas pegar o arquivo que você fez alteração.
 # Que no caso é o arquivo "README.md" dentro da pasta "READ".
+````
 
+
+````bash
 git add READ/STAR/README.md
 # Caso você queira pegar apenas um arquivo que está dentro de duas pastas.
 # Que no caso é "README.md" que está dentro das pastas "READ" e "STAR".
+````
+````bash
 
 git add READ/STAR
 # Caso queira pegar apenas uma pasta dentro de outra pasta.
