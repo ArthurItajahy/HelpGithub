@@ -335,15 +335,17 @@ git remote add origin https://github.com/EmitPool/CriarRepositorio
 
 git add .
 # Você usara quando você precisar adicionar todas a modificações que você fez.
-# Cuidado: Não esqueça de usar o .Gitignore para ter 
+# Cuidado: Não esqueça de usar o .gitignore para ter 
 # mais controle dos arquivos que deseja mandar para seu repositorio. 
 
 git add README.md
-# Você para adicionar especificamente a pasta que você fez a alteração. 
+# Você usara para adicionar especificamente a pasta que você fez a alteração. 
 # Que no caso é "README.md".
 
 git add Read
 # Caso você queira adicionar apenas a pasta que você fez a alteração. 
+# E você ira adicionar todos os arquivos que estão dentro da pasta.
+# Os únicos arquivos que serão ignorados são aqueles que foram declarados no .gitignore.
 # Que no caso é "Read".
 
 git add READ/README.md
@@ -356,7 +358,8 @@ git add READ/STAR/README.md
 # Que no caso é "README.md" que está dentro das pastas "READ" e "STAR".
 
 git add READ/STAR
-# Caso queira pegar apenas uma pasta dentro de outra pasta sem um arquivo especifico.
+# Caso queira pegar apenas uma pasta dentro de outra pasta.
+# Você ira adicionar todos os arquivos que estão dentro da pasta.
 
 ````
 
