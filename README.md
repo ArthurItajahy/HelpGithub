@@ -9,7 +9,7 @@
        * [Como usar .gitignore?](#Gitignore)    
        * [Como trabalhar em grupo?](#Como-trabalhar-em-grupo)
        * [Como remover remote?](#Como-usar-remover-remote)
-       * [Como usar o Git add?](#Como-usar-git-add)
+       * [Como usar o git add?](#Como-usar-git-add)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
