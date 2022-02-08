@@ -9,7 +9,7 @@
        * [Como usar .gitignore?](#Gitignore)    
        * [Como trabalhar em grupo?](#Como-trabalhar-em-grupo)
        * [Como remover remote?](#Como-usar-remover-remote)
-       * [Como usar o Git add?](#Como-usar-o-git- add)
+       * [Como usar o Git add?](#Como-usar-git-add)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -335,7 +335,8 @@ git remote add origin https://github.com/EmitPool/CriarRepositorio
 
 git add .
 # Você usara quando você precisar adicionar todas a modificações que você fez.
-# Cuidado: Não esqueça de usar o .Gitignore para ter mais controle dos arquivos que deseja mandar para seu repositorio. 
+# Cuidado: Não esqueça de usar o .Gitignore para ter 
+# mais controle dos arquivos que deseja mandar para seu repositorio. 
 
 git add README.md
 # Você para adicionar especificamente a pasta que você fez a alteração. 
