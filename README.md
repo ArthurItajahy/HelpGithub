@@ -7,8 +7,9 @@
        * [Git - Parte 2 - Empurrando Arquivos local para o Servidor](#Git-Iniciante-Parte-2)
    * [Git - Como usar?](#Git-Como-usar)
        * [Como usar .gitignore?](#Gitignore)    
-       * [Como trabalhar em grupo?](#Grupo )
-       * [Como remover remote?](#Remover-Remote)
+       * [Como trabalhar em grupo?](#Como-trabalhar-em-grupo)
+       * [Como remover remote?](#Como-usar-remover-remote)
+       * [Como usar o Git add?](#Como-usar-o-git- add)
    * [Erros - Possíveis](#Erros-Possiveis)   
  <!--te-->
  ## AVISO: DESATIVE O TRADUTOR AUTOMATICO DO SEU NAVEGADOR!!!
@@ -46,7 +47,7 @@ Para isso você terá que ter criado a sua conta GitHub. Para ter acesso ao pass
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo5Inicio.png) 
 
 
-
+### ----------------------------------- FINAL---------------------------------------------------
 
 # Git-Iniciante 
 # Git-Iniciante-Parte-1
@@ -206,7 +207,7 @@ git push -u origin master
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/PassoCriandoUpdatedGitInicio.png)
 
 
-### ----------------Finalizou o processo------------------------
+### ----------------------------------- FINAL---------------------------------------------------
 
 # Git-Como-usar
 
@@ -225,7 +226,9 @@ Nesse momento nos vamos colocar os arquivos queremos que seja ignorados.
 ### Click no ".gitignore".  Ira abrir em bloco de nota ou qualquer outro Editor de texto. Dentro dele coloque extamente o nome do arquivo eu coloquei meu arquivo texto "Senhas.txt" e adicionei o ".gitignore". Agora esse arquivo será ignorado quando você for subir seus arquivos para o repositório.
 ![Web 1](https://github.com/EmmettBrowwn/HelpGithub/blob/main/assets/Passo3ComoUsarGitignore.png)
 
-# Grupo
+### ----------------------------------- FINAL---------------------------------------------------
+
+# Como-trabalhar-em-grupo
 
 ### Passo 1 | Encontrando Settings:
 Entre no repositório que você quer trabalhar em crupo e click em "SETTINGS"(Configurações) : 
@@ -304,11 +307,11 @@ git push -u  origin main
 
 ````
 
+### ----------------------------------- FINAL---------------------------------------------------
 
 
 
-
-# Remover-Remote
+# Como-usar-remover-remote
 
 ````bash
 
@@ -324,9 +327,39 @@ git remote add origin https://github.com/EmitPool/CriarRepositorio
 ````
 
 
+### ----------------------------------- FINAL---------------------------------------------------
 
+# Como-usar-git-add
 
+````bash
 
+git add .
+# Você usara quando você precisar adicionar todas a modificações que você fez.
+# Cuidado: Não esqueça de usar o .Gitignore para ter mais controle dos arquivos que deseja mandar para seu repositorio. 
+
+git add README.md
+# Você para adicionar especificamente a pasta que você fez a alteração. 
+# Que no caso é "README.md".
+
+git add Read
+# Caso você queira adicionar apenas a pasta que você fez a alteração. 
+# Que no caso é "Read".
+
+git add READ/README.md
+# Caso você queira apenas adicionar um arquivo que está dentro de uma paste.
+# Você quer apenas pegar o arquivo que você fez alteração.
+# Que no caso é o arquivo "README.md" dentro da pasta "READ".
+
+git add READ/STAR/README.md
+# Caso você queira pegar apenas um arquivo que está dentro de duas pastas.
+# Que no caso é "README.md" que está dentro das pastas "READ" e "STAR".
+
+git add READ/STAR
+# Caso queira pegar apenas uma pasta dentro de outra pasta sem um arquivo especifico.
+
+````
+
+### ----------------------------------- FINAL---------------------------------------------------
 
 
 
@@ -341,7 +374,7 @@ git clone https://github.com/EmitPool/HelpGithub
 # Você coloca o link do repositório que você quer clonar.
 
 ````
-
+### ----------------------------------- FINAL---------------------------------------------------
 
 ## Erro | Fatal: Refusing To Merge Unrelated Histories
  Provavelmente você conhece o problema dessa forma:
@@ -359,7 +392,7 @@ git pull origin master --allow-unrelated-histories
 # diferente de 'master' troque o nome para a branch que você colocou.
 ````
 
-
+### ----------------------------------- FINAL---------------------------------------------------
 
 
 
