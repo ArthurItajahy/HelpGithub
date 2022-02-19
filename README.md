@@ -8,6 +8,7 @@
    * [Git - Como usar?](#Git-Como-usar)
        * [Como usar .gitignore?](#Gitignore)    
        * [Como trabalhar em grupo?](#Como-trabalhar-em-grupo)
+           * [Como convidar para o projeto?](#Como-Convidar-para-o-Projeto)
        * [Como remover remote?](#Como-usar-remover-remote)
        * [Como usar o git add?](#Como-usar-git-add)
    * [Erros - Possíveis](#Erros-Possiveis)   
@@ -229,6 +230,8 @@ Nesse momento nos vamos colocar os arquivos queremos que seja ignorados.
 ### ----------------------------------- FINAL---------------------------------------------------
 
 # Como-trabalhar-em-grupo
+
+# Como-Convidar-para-o-Projeto
 
 ### Passo 1 | Encontrando Settings:
 Entre no repositório que você quer trabalhar em crupo e click em "SETTINGS"(Configurações) : 
