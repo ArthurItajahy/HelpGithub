@@ -313,11 +313,6 @@ git push -u  origin main
 
 ````
 
-# Como-Usar-uma-branch
-# Oque-e-branch
-
-Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
-Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
 
 
 ### ----------------------------------- FINAL---------------------------------------------------
@@ -391,7 +386,13 @@ git add READ/STAR
 
 ### ----------------------------------- FINAL---------------------------------------------------
 
+# Como-Usar-uma-branch
+# Oque-e-branch
 
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
+### ----------------------------------- FINAL---------------------------------------------------
 
 # Erros-Possiveis
 
