@@ -9,6 +9,9 @@
        * [Como usar .gitignore?](#Gitignore)    
        * [Como trabalhar em grupo?](#Como-trabalhar-em-grupo)
            * [Como convidar para o projeto?](#Como-Convidar-para-o-Projeto)
+           * [Como usar uma branch?](#Como-Usar-uma-branch)
+               * [O que é branch?](#Oque-e-branch)
+
        * [Como remover remote?](#Como-usar-remover-remote)
        * [Como usar o git add?](#Como-usar-git-add)
    * [Erros - Possíveis](#Erros-Possiveis)   
@@ -309,6 +312,13 @@ git push -u  origin main
 # Para mandar os arquivos para o repositório.
 
 ````
+
+# Como-Usar-uma-branch
+# Oque-e-branch
+
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+Os repositórios no GitHub funcionam como uma árvore. Quando criamos um repositório, ele automaticamente é iniciado com a branch master, que é equivalente ao tronco da sua árvore, ou seja, é a parte principal do seu projeto. As próximas branches são secundárias e, portanto, ramos da branch master.
+
 
 ### ----------------------------------- FINAL---------------------------------------------------
 
